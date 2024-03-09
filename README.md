@@ -1,4 +1,4 @@
-# Exercício - Mini Projeto de Análise de Dados
+# Exercícios - Mini Projeto de Análise de Dados
 
 Vamos fazer um exercício completo de pandas para um miniprojeto de análise de dados.
 
